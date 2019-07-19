@@ -1,24 +1,24 @@
 [submodule "gui-common"]
 	path = gui-common
-	url = https://github.com/openpst/gui-common
+	url = git@github.com:paulyc/gui-common.git
 	branch = master
 [submodule "libopenpst"]
 	path = libopenpst
-	url = https://github.com/openpst/libopenpst
+	url = git@github.com:paulyc/libopenpst.git
 	branch = master
 [submodule "sahara"]
 	path = sahara
-	url = https://github.com/openpst/sahara
+	url = git@github.com:paulyc/sahara.git
 	branch = master
 [submodule "qcdm"]
 	path = qcdm
-	url = https://github.com/openpst/qcdm
+	url = git@github.com:paulyc/qcdm.git
 	branch = master
 [submodule "streaming-dload"]
 	path = streaming-dload
-	url = https://github.com/openpst/streaming-dload
+	url = git@github.com:paulyc/streaming-dload.git
 	branch = master
 [submodule "readmbn"]
 	path = readmbn
-	url = https://github.com/openpst/readmbn
+	url = git@github.com:paulyc/readmbn.git
 	branch = master
